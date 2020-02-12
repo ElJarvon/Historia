@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Professor Rossoni
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Conteúdos de História
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,8 +20,8 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Sobre mim: "sobremim"
+
    
 
 # Image to show in the navigation bar - image must be a square (width = height)
